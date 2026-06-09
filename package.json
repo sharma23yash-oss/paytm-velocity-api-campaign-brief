@@ -1,0 +1,16 @@
+{
+  "name": "paytm-velocity-api-campaign-brief",
+  "version": "1.0.0",
+  "description": "Generates the Paytm Velocity API mock B2B campaign brief deck with PptxGenJS.",
+  "license": "MIT",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "pptxgenjs": "^4.0.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.3.0",
+    "sharp": "^0.33.5"
+  }
+}

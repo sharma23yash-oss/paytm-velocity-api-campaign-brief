@@ -1,0 +1,7 @@
+node_modules/
+*.pdf
+*.log
+.DS_Store
+out.pdf
+slide-*.jpg
+r2-*.jpg
